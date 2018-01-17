@@ -2,8 +2,8 @@
 
 ## Команда разработчиков
 
-1.Vera
-2.Nadejda
-3.Lybov
+1.MrIvan
+2.MissNina
+3.MissMissa
 
 ### @ 2017 КИПУ
